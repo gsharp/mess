@@ -1,0 +1,16 @@
+A lil de-dupe / aggregator script for a 2 column csv
+
+Requires Ruby > 1.8
+
+USAGE: ruby unique_vals.rb input_file.csv
+
+examlples:
+
+output to console window: 
+ruby unique_vals.rb auctions.csv 
+
+writing to output file:
+ruby unique_vals.rb auctions.csv > sample_output.txt
+
+Download this script from: 
+https://github.com/gsharp/mess
