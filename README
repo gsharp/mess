@@ -4,13 +4,21 @@ Requires Ruby > 1.8
 
 USAGE: ruby unique_vals.rb input_file.csv
 
-examlples:
+Examlples:
 
-output to console window: 
-ruby unique_vals.rb auctions.csv 
+Default output to console window: 
+  ruby unique_vals.rb your.csv 
+
+-b option showing extra bidder information
+  ruby unique_vals.rb -b your.csv
+
+--help option showing extra option info
+  ruby unique_vals.rb --help
 
 writing to output file:
-ruby unique_vals.rb auctions.csv > sample_output.txt
+  ruby unique_vals.rb your.csv > sample_output.txt
+
+
 
 Download this script from: 
 https://github.com/gsharp/mess

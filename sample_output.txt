@@ -1,3 +1,10 @@
 auction 11 has 2 unique bidders
+  bidder 2 bid 2 times
+  bidder 3 bid 1 times
 auction 12 has 1 unique bidders
+  bidder 1 bid 3 times
 auction 13 has 4 unique bidders
+  bidder 22 bid 1 times
+  bidder 2 bid 2 times
+  bidder 3 bid 1 times
+  bidder 4 bid 2 times
