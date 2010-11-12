@@ -1,3 +1,0 @@
-auction 11 has 2 unique bidders
-auction 12 has 1 unique bidders
-auction 13 has 4 unique bidders
