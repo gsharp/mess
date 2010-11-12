@@ -1,6 +1,9 @@
 A lil de-dupe / aggregator script for a 2 column csv
 
-Requires Ruby > 1.8
+Pre-requisites: 
+Requires Ruby > 1.8 to be installed and called by the "ruby" command
+Make sure you set execute permission on this script "unique_vals.rb" so it can execute and chat with the file system. 
+In unix that would be: chmod 755 unique_vals.rb
 
 USAGE: ruby unique_vals.rb input_file.csv
 
