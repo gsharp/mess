@@ -1,9 +1,9 @@
 # Author:  Glen Cuthbertson
 # Date  :  11/11/2010
 # Program Name: unique_vals.rb
-#   - takes input froma file and creates a report on which unique ids have unique values
+#   - takes input from a file and creates a report on which unique ids have unique values
 
-abort "USAGE: unique_vals input_file" if ARGV.size <= 0
+abort "USAGE: ruby unique_vals input_file" if ARGV.size <= 0
 
 #*******************************class Aggr(fileName)*******************************
 class Aggr
